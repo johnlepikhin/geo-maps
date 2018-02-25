@@ -1,0 +1,7 @@
+
+* Карта района г. Казбек (со стороны Грузии)
+
+Сделана на основе OSM. Добавил несколько точек.
+
+Рекомендую рендерить с помощью стиля: [[https://github.com/johnlepikhin/garmin-styles-org/tree/master/mountaineering]].
+
